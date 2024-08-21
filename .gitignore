@@ -1,0 +1,5 @@
+build/*
+dist/*
+kgraphdocfactor.egg-info/*
+.idea/*
+
